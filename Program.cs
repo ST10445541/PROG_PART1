@@ -10,7 +10,7 @@ namespace CyberAwarenessBot
         {
 
             Console.OutputEncoding = System.Text.Encoding.UTF8;
-
+            Console.WriteLine("Hello! Welcome to the Cybersecurity Awareness Bot. I'm here to help you stay safe online.");
             PlayGreetingAudio();
 
             ShowAsciiArt();

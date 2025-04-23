@@ -17,3 +17,4 @@ C:\Users\lab_services_student\source\repos\CyberAwarenessBot\CyberAwarenessBot\o
 C:\Users\lab_services_student\source\repos\CyberAwarenessBot\CyberAwarenessBot\obj\Debug\net8.0\CyberAwarenessBot.genruntimeconfig.cache
 C:\Users\lab_services_student\source\repos\CyberAwarenessBot\CyberAwarenessBot\obj\Debug\net8.0\ref\CyberAwarenessBot.dll
 C:\Users\lab_services_student\source\repos\CyberAwarenessBot\CyberAwarenessBot\bin\Debug\net8.0\Assets\welcome.wav
+C:\Users\lab_services_student\source\repos\CyberAwarenessBot\CyberAwarenessBot\obj\Debug\net8.0\CyberAwarenessBot.sourcelink.json
